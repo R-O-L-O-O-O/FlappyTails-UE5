@@ -1,0 +1,13 @@
+# Ignore build and intermediate files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.VC.db
+*.sln
+*.suo
+*.xcodeproj
+*.opensdf
+*.sdf
+*.sln
+*.user
